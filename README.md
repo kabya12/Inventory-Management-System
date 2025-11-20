@@ -1,1 +1,1 @@
-# Inventory-Management-System
+# Inventory-Management-System : A fully featured, end-to-end Inventory Management System designed to simplify product tracking, purchases, sales, and overall business operations. This system provides everything needed to efficiently manage stock levels—from buying and storing items, to selling them via a built-in POS (Point of Sale) module.
